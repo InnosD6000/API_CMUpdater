@@ -1,0 +1,11 @@
+{
+  "response": [
+    {
+      "filename": "$filename",
+      "url": "$downloadlink",
+      "md5sum": "$md5sum",
+      "datetime": $timestamp,
+      "romtype": "unofficial"
+    }
+  ]
+}
