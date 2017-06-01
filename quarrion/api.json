@@ -1,15 +1,15 @@
 {
  "id": null,
  "result": [
-{
-    "url": $downloadlink",
+    {
+    "url": "$download",
     "timestamp": "$timestamp",
     "api_level": "23",
     "md5sum": "$md5",
     "filename": "$filename",
     "channel": "NIGHTLY",
-    "changes": "https://raw.githubusercontent.com/InnosD6000/API_CMUpdater/cm-13.0/quarrion/CHANGELOG",
-    "incremental": "$incremental"
+    "changes": "$changelog",
+    "incremental": ""
     },
   ],
  "error": null
