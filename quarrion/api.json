@@ -2,13 +2,13 @@
  "id": null,
  "result": [
     {
-    "url": "$download",
-    "timestamp": "$timestamp",
+    "url": "https://transfer.sh/x1O6z/lineage-13.0.5-quarrion.zip",
+    "timestamp": "1496299868",
     "api_level": "23",
     "md5sum": "$md5",
-    "filename": "$filename",
+    "filename": "lineage-13.0.5-quarrion.zip",
     "channel": "NIGHTLY",
-    "changes": "$changelog",
+    "changes": "https://raw.githubusercontent.com/InnosD6000/API_CMUpdater/cm-13.0/quarrion/CHANGELOG",
     "incremental": ""
     },
   ],
